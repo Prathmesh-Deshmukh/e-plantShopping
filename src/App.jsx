@@ -1,5 +1,6 @@
 
 import React, { useState } from 'react';
+import { Provider } from 'react-redux';
 import ProductList from './ProductList';
 import './App.css';
 import AboutUs from './AboutUs';
